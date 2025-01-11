@@ -1,0 +1,6 @@
+tweepy
+pyspark
+transformers
+scipy
+torch
+firebase-admin
